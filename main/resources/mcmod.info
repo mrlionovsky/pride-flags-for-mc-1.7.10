@@ -1,0 +1,19 @@
+[
+{
+  "modid": "BrickslandGlobalMod",
+  "name": "BrickslandGlobalMod",
+  "description": "This mod will add pride flags to your Minecraft.",
+  "version": "001",
+  "credits": "",
+  "logoFile": "/logo.png",
+  "mcversion": "1.7.10",
+  "url": "http://bricksland.ru/",
+  "updateUrl": "",
+  "authors": [ "Lionovsky" , "Zvere" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
